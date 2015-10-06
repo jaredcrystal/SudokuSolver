@@ -1,0 +1,12 @@
+*****FAILED, GO BACK*****
+removing 3 from cell 30:2378
+Cell 30 now has: 278
+Failed with 2 at cell 30
+Succeeded with 7 at cell 30
+Failed with 2 at cell 31
+Failed with 6 at cell 31
+*****FAILED, GO BACK*****
+removing 7 from cell 30:2
+Cell 30 now has: 2
+One possible value at cell 30
+Failed with 2 at cell 31
